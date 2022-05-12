@@ -1,0 +1,11 @@
+GUI
+	mainloop
+	gui
+	controller
+
+LOGIC
+	connect
+	check
+	monitor
+	handler (user preferences)
+	controller*
